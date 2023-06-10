@@ -1,0 +1,614 @@
+Unnamed: 0,premise,hypothesis,type-of-inference,metadata,label
+5360,The moon winked back at itself from the lake’s surface,The moon reflected back at itself from the lake’s surface,metaphor,,entailment
+5361,The moon winked back at itself from the lake’s surface,The moon absorbed back at itself from the lake’s surface,metaphor,,not_entailment
+5362,The company released him after many years of service,The company fired him after many years of service,metaphor,,entailment
+5363,The company released him after many years of service,The company hired him after many years of service,metaphor,,not_entailment
+5364,The new moon swims up through the tree tops,The new moon rises through the tree tops,metaphor,,entailment
+5365,The new moon swims up through the tree tops,The new moon sinks through the tree tops,metaphor,,not_entailment
+5366,He embraced the knowledge or beliefs of his tribe,He held the knowledge or beliefs of his tribe,metaphor,,entailment
+5367,He embraced the knowledge or beliefs of his tribe,He released the knowledge or beliefs of his tribe,metaphor,,not_entailment
+5368,I want to frolic in sunshine once again,I want to be in sunshine once again,metaphor,,entailment
+5369,I want to frolic in sunshine once again,I want to hide in sunshine once again,metaphor,,not_entailment
+5370,My heart skips when he walks in the room,My heart beats when he walks in the room,metaphor,,entailment
+5371,My heart skips when he walks in the room,My heart relaxed when he walks in the room,metaphor,,not_entailment
+5372,His body was weathered by leprosy,His body was deformed by leprosy,metaphor,,entailment
+5373,His body was weathered by leprosy,His body was repaired by leprosy,metaphor,,not_entailment
+5374,Actions speak louder than words,Actions are louder than words,metaphor,,entailment
+5375,Actions speak louder than words,Actions aren't louder than words,metaphor,,not_entailment
+5376,The window panes were trembling as the wind blew through them,The window panes were rattling as the wind blew through them,metaphor,,entailment
+5377,The window panes were trembling as the wind blew through them,The window panes were calm as the wind blew through them,metaphor,,not_entailment
+5378,It dawned to him that she had betrayed him,It occured to him that she had betrayed him,metaphor,,entailment
+5379,It dawned to him that she had betrayed him,It passed him that she had betrayed him,metaphor,,not_entailment
+5380,For summer and his pleasures take flight on thee,For summer and his pleasures begin on thee,metaphor,,entailment
+5381,For summer and his pleasures take flight on thee,For summer and his pleasures stop on thee,metaphor,,not_entailment
+5382,They breezed through the job candidates,They went through the job candidates,metaphor,,entailment
+5383,They breezed through the job candidates,They ignored through the job candidates,metaphor,,not_entailment
+5384,The tax cut will fertilize the economy,The tax cut will help the economy,metaphor,,entailment
+5385,The tax cut will fertilize the economy,The tax cut will harm the economy,metaphor,,not_entailment
+5386,Death is knocking at the door,Death is coming at the door,metaphor,,entailment
+5387,Death is knocking at the door,Death is going from the door,metaphor,,not_entailment
+5388,In the depth of the night I sprawl in the bed,In the depth of the night I lie in the bed,metaphor,,entailment
+5389,In the depth of the night I sprawl in the bed,In the depth of the night I wake up from the bed,metaphor,,not_entailment
+5390,Whom fate has yoked with a weight of woes,Whom fate has met with a weight of woes,metaphor,,entailment
+5391,Whom fate has yoked with a weight of woes,Whom fate has avoided with a weight of woes,metaphor,,not_entailment
+5392,She swallowed all the men's hearts,She had all the men's hearts,metaphor,,entailment
+5393,She swallowed all the men's hearts,She had none of the men's hearts,metaphor,,not_entailment
+5394,The party dissipated as soon as she left,The party ended as soon as she left,metaphor,,entailment
+5395,The party dissipated as soon as she left,The party started as soon as she left,metaphor,,not_entailment
+5396,She did not realize that opportunity was waltzing at her door,She did not realize that opportunity was coming at her door,metaphor,,entailment
+5397,She did not realize that opportunity was waltzing at her door,She did not realize that opportunity was leaving from her door,metaphor,,not_entailment
+5398,Life in the camp wilted him,Life in the camp tired him,metaphor,,entailment
+5399,Life in the camp wilted him,Life in the camp energized him,metaphor,,not_entailment
+5400,The bridge towers over the river,The bridge stands over the river,metaphor,,entailment
+5401,The bridge towers over the river,The bridge breaks over the river,metaphor,,not_entailment
+5402,The children frolicked with joy,The children danced with joy,metaphor,,entailment
+5403,The children frolicked with joy,The children sulked with joy,metaphor,,not_entailment
+5404,Water cascaded all over the floor,Water poured all over the floor,metaphor,,entailment
+5405,Water cascaded all over the floor,Water backed up all over the floor,metaphor,,not_entailment
+5406,But nature molded it imperfect ever,But nature create it imperfect ever,metaphor,,entailment
+5407,But nature molded it imperfect ever,But nature dismantled it imperfect ever,metaphor,,not_entailment
+5408,His playing ensconced him as a Romantic,His playing established him as a Romantic,metaphor,,entailment
+5409,His playing ensconced him as a Romantic,His playing disbanded him as a Romantic,metaphor,,not_entailment
+5410,She pressed the witnesses for information,She asked the witnesses for information,metaphor,,entailment
+5411,She pressed the witnesses for information,She guarded the witnesses for information,metaphor,,not_entailment
+5412,He lathered fertilizer over the lawn,He spread fertilizer over the lawn,metaphor,,entailment
+5413,He lathered fertilizer over the lawn,He gathered fertilizer over the lawn,metaphor,,not_entailment
+5414,The smell of smoke carpeted on the delinquent,The smell of smoke settled on the delinquent,metaphor,,entailment
+5415,The smell of smoke carpeted on the delinquent,The smell of smoke took off on the delinquent,metaphor,,not_entailment
+5416,I miss wandering in her eyes and watching her,I miss staring in her eyes and watching her,metaphor,,entailment
+5417,I miss wandering in her eyes and watching her,I miss neglecting her eyes and watching her,metaphor,,not_entailment
+5418,The smell of smoke rested on the delinquent,The smell of smoke settled on the delinquent,metaphor,,entailment
+5419,The smell of smoke rested on the delinquent,The smell of smoke took off on the delinquent,metaphor,,not_entailment
+5420,We took on the terms of the settlement,We agreed on the terms of the settlement,metaphor,,entailment
+5421,We took on the terms of the settlement,We disagreed on the terms of the settlement,metaphor,,not_entailment
+5422,The new measures jostled the economy,The new measures affected the economy,metaphor,,entailment
+5423,The new measures jostled the economy,The new measures helped the economy,metaphor,,not_entailment
+5424,The tax cut will uplift the economy,The tax cut will help the economy,metaphor,,entailment
+5425,The tax cut will uplift the economy,The tax cut will harm the economy,metaphor,,not_entailment
+5426,The wind floats through the leaves,The wind blows through the leaves,metaphor,,entailment
+5427,The wind floats through the leaves,The wind relaxes through the leaves,metaphor,,not_entailment
+5428,Their faces were shrouded with sadness,Their faces were covered with sadness,metaphor,,entailment
+5429,Their faces were shrouded with sadness,Their faces were depleted of sadness,metaphor,,not_entailment
+5430,Everything flowed to his glory,Everything down to his glory,metaphor,,entailment
+5431,Everything flowed to his glory,Everything hindered to his glory,metaphor,,not_entailment
+5432,The scream pierced the night,The scream filled the night,metaphor,,entailment
+5433,The scream pierced the night,The scream emptied the night,metaphor,,not_entailment
+5434,Her optimism stole away these worries,Her optimism took away these worries,metaphor,,entailment
+5435,Her optimism stole away these worries,Her optimism gave away these worries,metaphor,,not_entailment
+5436,The new moon peers through the tree tops,The new moon rises through the tree tops,metaphor,,entailment
+5437,The new moon peers through the tree tops,The new moon sets through the tree tops,metaphor,,not_entailment
+5438,My head lay in the crook of her neck,My head rested in the crook of her neck,metaphor,,entailment
+5439,My head lay in the crook of her neck,My head moved in the crook of her neck,metaphor,,not_entailment
+5440,The clouds twirled each other around in the sky,The clouds spun each other around in the sky,metaphor,,entailment
+5441,The clouds twirled each other around in the sky,The clouds stagnated each other around in the sky,metaphor,,not_entailment
+5442,The music swelled in the background,The music played in the background,metaphor,,entailment
+5443,The music swelled in the background,The music stopped in the background,metaphor,,not_entailment
+5444,The sudden fame kindled her ego,The sudden fame increased her ego,metaphor,,entailment
+5445,The sudden fame kindled her ego,The sudden fame decreased her ego,metaphor,,not_entailment
+5446,She captured all the men's hearts,She had all the men's hearts,metaphor,,entailment
+5447,She captured all the men's hearts,She lacked all the men's hearts,metaphor,,not_entailment
+5448,My alarm roared at me this morning,My alarm buzzed at me this morning,metaphor,,entailment
+5449,My alarm roared at me this morning,My alarm was quiet this morning,metaphor,,not_entailment
+5450,Adrenaline swims through him powerfully,Adrenaline flows through him powerfully,metaphor,,entailment
+5451,Adrenaline swims through him powerfully,Adrenaline ebbs through him powerfully,metaphor,,not_entailment
+5452,He weathered the costs for the accident,He borne the costs for the accident,metaphor,,entailment
+5453,He weathered the costs for the accident,He avoided the costs for the accident,metaphor,,not_entailment
+5454,Dimples burst forth in his cheeks,Dimples formed in his cheeks,metaphor,,entailment
+5455,Dimples burst forth in his cheeks,Dimples disappeared in his cheeks,metaphor,,not_entailment
+5456,The attackers spat gunshots at the civilians,The attackers fired gunshots at the civilians,metaphor,,entailment
+5457,The attackers spat gunshots at the civilians,The attackers resisted gunshots at the civilians,metaphor,,not_entailment
+5458,I won't bow to reading other people's mail,I won't go to reading other people's mail,metaphor,,entailment
+5459,I won't bow to reading other people's mail,I will go to reading other people's mail,metaphor,,not_entailment
+5460,My eyes burned up and I could feel my face turning red,My eyes teared up and I could feel my face turning red,metaphor,,entailment
+5461,My eyes burned up and I could feel my face turning red,My eyes dried up and I could feel my face turning red,metaphor,,not_entailment
+5462,I toiled through the work,I struggled through the work,metaphor,,entailment
+5463,I toiled through the work,I aced through the work,metaphor,,not_entailment
+5464,"After a glass of wine, he unfurled up a bit","After a glass of wine, he relaxed up a bit",metaphor,,entailment
+5465,"After a glass of wine, he unfurled up a bit","After a glass of wine, he stressed up a bit",metaphor,,not_entailment
+5466,The images basked in the brilliance that covered him warm,The images reflected in the brilliance that covered him warm,metaphor,,entailment
+5467,The images basked in the brilliance that covered him warm,The images disregarded in the brilliance that covered him warm,metaphor,,not_entailment
+5468,The snow blanketed the earth like a mother would her infant child,The snow covered the earth like a mother would her infant child,metaphor,,entailment
+5469,The snow blanketed the earth like a mother would her infant child,The snow exposed the earth like a mother would her infant child,metaphor,,not_entailment
+5470,This fact warred against the standard theories,This fact went against the standard theories,metaphor,,entailment
+5471,This fact warred against the standard theories,This fact came in favor of the standard theories,metaphor,,not_entailment
+5472,She dawned sunflower seeds,She sowed sunflower seeds,metaphor,,entailment
+5473,She dawned sunflower seeds,She destroyed sunflower seeds,metaphor,,not_entailment
+5474,I muffled my anger and kept quiet,I controlled my anger and kept quiet,metaphor,,entailment
+5475,I muffled my anger and kept quiet,I showed my anger and kept quiet,metaphor,,not_entailment
+5476,The company booted him after many years of service,The company fired him after many years of service,metaphor,,entailment
+5477,The company booted him after many years of service,The company hired him after many years of service,metaphor,,not_entailment
+5478,The spasm whips her facial muscles,The spasm convulses her facial muscles,metaphor,,entailment
+5479,The spasm whips her facial muscles,The spasm straightens her facial muscles,metaphor,,not_entailment
+5480,I restrained my anger and kept quiet,I controlled my anger and kept quiet,metaphor,,entailment
+5481,I restrained my anger and kept quiet,I showed my anger and kept quiet,metaphor,,not_entailment
+5482,The car pummeled the toy,The car crushed the toy,metaphor,,entailment
+5483,The car pummeled the toy,The car avoided the toy,metaphor,,not_entailment
+5484,The music frolicked in the background,The music played in the background,metaphor,,entailment
+5485,The music frolicked in the background,The music stopped in the background,metaphor,,not_entailment
+5486,Am I supposed to swallow that story?,Am I supposed to believe that story?,metaphor,,entailment
+5487,Am I supposed to swallow that story?,Am I supposed to disbelieve that story?,metaphor,,not_entailment
+5488,The event carved  itself into her memory,The event etched itself into her memory,metaphor,,entailment
+5489,The event carved  itself into her memory,The event withdrew itself from her memory,metaphor,,not_entailment
+5490,He lay before the gathering sun,He lay before the growing sun,metaphor,,entailment
+5491,He lay before the gathering sun,He lay before the setting sun,metaphor,,not_entailment
+5492,The critics hyped this broadway production,The critics overpraised this broadway production,metaphor,,entailment
+5493,The critics hyped this broadway production,The critics rebuked this broadway production,metaphor,,not_entailment
+5494,It appeared to him that she had betrayed him,It occured to him that she had betrayed him,metaphor,,entailment
+5495,It appeared to him that she had betrayed him,It preceeded to him that she had betrayed him,metaphor,,not_entailment
+5496,The new measures transformed the economy,The new measures affected the economy,metaphor,,entailment
+5497,The new measures transformed the economy,The new measures stagnated the economy,metaphor,,not_entailment
+5498,Light had overgrown darkness,Light had replaced darkness,metaphor,,entailment
+5499,Light had overgrown darkness,Light had kept darkness,metaphor,,not_entailment
+5500,The roaring on the door was more assertive now,The knocking on the door was more assertive now,metaphor,,entailment
+5501,The roaring on the door was more assertive now,The protecting on the door was more assertive now,metaphor,,not_entailment
+5502,For summer and his pleasures graced on thee,For summer and his pleasures begin on thee,metaphor,,entailment
+5503,For summer and his pleasures graced on thee,For summer and his pleasures end on thee,metaphor,,not_entailment
+5504,"I wanted to get money, but the ATM froze","I wanted to get money, but the ATM stopped",metaphor,,entailment
+5505,"I wanted to get money, but the ATM froze","I wanted to get money, but the ATM started",metaphor,,not_entailment
+5506,The dancer glided across the stage,The dancer moved across the stage,metaphor,,entailment
+5507,The dancer glided across the stage,The dancer paused across the stage,metaphor,,not_entailment
+5508,My heart sings when he walks in the room,My heart beats when he walks in the room,metaphor,,entailment
+5509,My heart sings when he walks in the room,My heart stops when he walks in the room,metaphor,,not_entailment
+5510,A star crowns the Christmas Tree,A star tops the Christmas Tree,metaphor,,entailment
+5511,A star crowns the Christmas Tree,A star messes the Christmas Tree,metaphor,,not_entailment
+5512,I wrestled with this decision for years,I struggled with this decision for years,metaphor,,entailment
+5513,I wrestled with this decision for years,I eased with this decision for years,metaphor,,not_entailment
+5514,We streamed money into the education of our children,We put money into the education of our children,metaphor,,entailment
+5515,We streamed money into the education of our children,We refused money into the education of our children,metaphor,,not_entailment
+5516,The bus bolted down the road,The bus paced down the road,metaphor,,entailment
+5517,The bus bolted down the road,The bus slowed down the road,metaphor,,not_entailment
+5518,Slowly his sense and strength grew,Slowly his sense and strength increased,metaphor,,entailment
+5519,Slowly his sense and strength grew,Slowly his sense and strength decreased,metaphor,,not_entailment
+5520,He crushed remorse and stifled down despair,He crushed remorse and pushed down despair,metaphor,,entailment
+5521,He crushed remorse and stifled down despair,He crushed remorse and pulled up despair,metaphor,,not_entailment
+5522,She babbles a lot of nonsense,She speaks a lot of nonsense,metaphor,,entailment
+5523,She babbles a lot of nonsense,She avoids a lot of nonsense,metaphor,,not_entailment
+5524,"In addition, the storm bombed the town","In addition, the storm devastated the town",metaphor,,entailment
+5525,"In addition, the storm bombed the town","In addition, the storm protected the town",metaphor,,not_entailment
+5526,The cold hollows her bones,The cold chill her bones,metaphor,,entailment
+5527,The cold hollows her bones,The cold comforts her bones,metaphor,,not_entailment
+5528,The little raindrops collapsing together stick upon my coat,The little raindrops falling together stick upon my coat,metaphor,,entailment
+5529,The little raindrops collapsing together stick upon my coat,The little raindrops stopping together stick upon my coat,metaphor,,not_entailment
+5530,He shouldered the costs for the accident,He borne the costs for the accident,metaphor,,entailment
+5531,He shouldered the costs for the accident,He neglected the costs for the accident,metaphor,,not_entailment
+5532,Black desert rained in iron silences,Black desert covered in iron silences,metaphor,,entailment
+5533,Black desert rained in iron silences,Black desert uncovered in iron silences,metaphor,,not_entailment
+5534,She had to juggle her job and her children,She had to manage her job and her children,metaphor,,entailment
+5535,She had to juggle her job and her children,She had to avoid her job and her children,metaphor,,not_entailment
+5536,Which horse are you depending  on,Which horse are you betting on,metaphor,,entailment
+5537,Which horse are you depending  on,Which horse are you surrendering on,metaphor,,not_entailment
+5538,The images cast in the brilliance that covered him warm,The images reflected in the brilliance that covered him warm,metaphor,,entailment
+5539,The images cast in the brilliance that covered him warm,The images disregarded in the brilliance that covered him warm,metaphor,,not_entailment
+5540,The moon betrayed back at itself from the lake’s surface,The moon reflected back at itself from the lake’s surface,metaphor,,entailment
+5541,The moon betrayed back at itself from the lake’s surface,The moon absorbed back at itself from the lake’s surface,metaphor,,not_entailment
+5542,My personal feelings shadowed my judgment in this case,My personal feelings influenced my judgment in this case,metaphor,,entailment
+5543,My personal feelings shadowed my judgment in this case,My personal feelings kept my judgment in this case,metaphor,,not_entailment
+5544,The bus drizzled down the road,The bus paced down the road,metaphor,,entailment
+5545,The bus drizzled down the road,The bus slowed down the road,metaphor,,not_entailment
+5546,The book captured her imagination,The book had her imagination,metaphor,,entailment
+5547,The book captured her imagination,The book failed her imagination,metaphor,,not_entailment
+5548,I want to grow in sunshine once again,I want to be in sunshine once again,metaphor,,entailment
+5549,I want to grow in sunshine once again,I want to hide in sunshine once again,metaphor,,not_entailment
+5550,Of that faint fragrance rising from her soft hair,Of that faint fragrance being from her soft hair,metaphor,,entailment
+5551,Of that faint fragrance rising from her soft hair,Of that faint fragrance stagnating in her soft hair,metaphor,,not_entailment
+5552,"I wanted to get money, but the ATM surrendered","I wanted to get money, but the ATM stopped",metaphor,,entailment
+5553,"I wanted to get money, but the ATM surrendered","I wanted to get money, but the ATM started",metaphor,,not_entailment
+5554,I miss swimming in her eyes and watching her,I miss staring in her eyes and watching her,metaphor,,entailment
+5555,I miss swimming in her eyes and watching her,I miss neglecting in her eyes and watching her,metaphor,,not_entailment
+5556,My brain is glowing after the bottle of champagne,My brain is right after the bottle of champagne,metaphor,,entailment
+5557,My brain is glowing after the bottle of champagne,My brain is not after the bottle of champagne,metaphor,,not_entailment
+5558,"As they strike the ground, they are effaced","As they reach the ground, they are forgotten",metaphor,,entailment
+5559,"As they strike the ground, they are effaced","As they reach the ground, they are remembered",metaphor,,not_entailment
+5560,The children twinkled with joy,The children danced with joy,metaphor,,entailment
+5561,The children twinkled with joy,The children sulked with joy,metaphor,,not_entailment
+5562,To ravage the sob of my agony,To guts the sob of my agony,metaphor,,entailment
+5563,To ravage the sob of my agony,To cheer the sob of my agony,metaphor,,not_entailment
+5564,"Trembling for ire , and painted pale for rage","Trembling for ire , and look pale for rage",metaphor,,entailment
+5565,"Trembling for ire , and painted pale for rage","Trembling for ire , and disregard pale for rage",metaphor,,not_entailment
+5566,The play is going to burn few people,The play is going to hurt few people,metaphor,,entailment
+5567,The play is going to burn few people,The play is going to cheer few people,metaphor,,not_entailment
+5568,In the depth of the night I sink in the bed,In the depth of the night I lie in the bed,metaphor,,entailment
+5569,In the depth of the night I sink in the bed,In the depth of the night I wake up from the bed,metaphor,,not_entailment
+5570,We must salute the kindness she showed towards us,We must acknowledge the kindness she showed towards us,metaphor,,entailment
+5571,We must salute the kindness she showed towards us,We must disavow the kindness she showed towards us,metaphor,,not_entailment
+5572,The teapot shuddered as the water boiled,The teapot shook as the water boiled,metaphor,,entailment
+5573,The teapot shuddered as the water boiled,The teapot soothed as the water boiled,metaphor,,not_entailment
+5574,The dollar has been dragged by inflation,The dollar has been reduced by inflation,metaphor,,entailment
+5575,The dollar has been dragged by inflation,The dollar has been increased by inflation,metaphor,,not_entailment
+5576,He pushed aside my objections,He put aside my objections,metaphor,,entailment
+5577,He pushed aside my objections,He removed aside my objections,metaphor,,not_entailment
+5578,But frozen dread permeated through the entrails dear ;,But frozen dread continued through their entrails dear ;,metaphor,,entailment
+5579,But frozen dread permeated through the entrails dear ;,But frozen dread ceased through their entrails dear ;,metaphor,,not_entailment
+5580,"After a glass of wine, he loosened up a bit","After a glass of wine, he relaxed up a bit",metaphor,,entailment
+5581,"After a glass of wine, he loosened up a bit","After a glass of wine, he stressed up a bit",metaphor,,not_entailment
+5582,The cigarettes snuffed his health,The cigarettes affected his health,metaphor,,entailment
+5583,The cigarettes snuffed his health,The cigarettes cured his health,metaphor,,not_entailment
+5584,The avalanche polvarized  anything standing in its way,The avalanche destroyed anything standing in its way,metaphor,,entailment
+5585,The avalanche polvarized  anything standing in its way,The avalanche protected anything standing in its way,metaphor,,not_entailment
+5586,Water galloped down all over the floor,Water poured all over the floor,metaphor,,entailment
+5587,Water galloped down all over the floor,Water backed up all over the floor,metaphor,,not_entailment
+5588,John loomed behind his class mates,John was behind his class mates,metaphor,,entailment
+5589,John loomed behind his class mates,John wasn't behind his class mates,metaphor,,not_entailment
+5590,The clouds waltzed each other around in the sky,The clouds spun each other around in the sky,metaphor,,entailment
+5591,The clouds waltzed each other around in the sky,The clouds stagnated each other around in the sky,metaphor,,not_entailment
+5592,Oaths of homage fiercely won,Oaths of homage fiercely prevailed,metaphor,,entailment
+5593,Oaths of homage fiercely won,Oaths of homage fiercely left,metaphor,,not_entailment
+5594,She seals her lectures with joke,She ends her lectures with joke,metaphor,,entailment
+5595,She seals her lectures with joke,She starts her lectures with joke,metaphor,,not_entailment
+5596,The car smashed the toy,The car crushed the toy,metaphor,,entailment
+5597,The car smashed the toy,The car avoided the toy,metaphor,,not_entailment
+5598,The play is going to pummel a few people,The play is going to hurt few people,metaphor,,entailment
+5599,The play is going to pummel a few people,The play is going to cheer few people,metaphor,,not_entailment
+5600,My alarm yelled at me this morning,My alarm buzzed at me this morning,metaphor,,entailment
+5601,My alarm yelled at me this morning,My alarm was quiet this morning,metaphor,,not_entailment
+5602,My head dwelled in the crook of her neck,My head rested in the crook of her neck,metaphor,,entailment
+5603,My head dwelled in the crook of her neck,My head moved in the crook of her neck,metaphor,,not_entailment
+5604,She slipped into the luxury of life,She fell into the luxury of life,metaphor,,entailment
+5605,She slipped into the luxury of life,She rose into the luxury of life,metaphor,,not_entailment
+5606,The flowers danced in the gentle breeze,The flowers moved in the gentle breeze,metaphor,,entailment
+5607,The flowers danced in the gentle breeze,The flowers stopped in the gentle breeze,metaphor,,not_entailment
+5608,He always flashes a smile,He always has a smile,metaphor,,entailment
+5609,He always flashes a smile,He always hides a smile,metaphor,,not_entailment
+5610,The wildfire leapt through the forest at an amazing speed,The wildfire spread through the forest at an amazing speed,metaphor,,entailment
+5611,The wildfire leapt through the forest at an amazing speed,The wildfire halted through the forest at an amazing speed,metaphor,,not_entailment
+5612,People were bolting out of the theater,People were running out of the theater,metaphor,,entailment
+5613,People were bolting out of the theater,People were standing out of the theater,metaphor,,not_entailment
+5614,He crushed remorse and sunk down despair,He crushed remorse and pushed down despair,metaphor,,entailment
+5615,He crushed remorse and sunk down despair,He crushed remorse and pulled up despair,metaphor,,not_entailment
+5616,"Sniffles, coughs, and colds gurgle in their breasts","Sniffles, coughs, and colds develop in their breasts",metaphor,,entailment
+5617,"Sniffles, coughs, and colds gurgle in their breasts","Sniffles, coughs, and colds reduced in their breasts",metaphor,,not_entailment
+5618,He was gripped with a terrible illness that killed him quickly,He was stricken with a terrible illness that killed him quickly,metaphor,,entailment
+5619,He was gripped with a terrible illness that killed him quickly,He was unaffected with a terrible illness that killed him quickly,metaphor,,not_entailment
+5620,The snow swaddled the earth like a mother would her infant child,The snow covered the earth like a mother would her infant child,metaphor,,entailment
+5621,The snow swaddled the earth like a mother would her infant child,The snow exposed the earth like a mother would her infant child,metaphor,,not_entailment
+5622,But nature germinate it imperfect ever,But nature create it imperfect ever,metaphor,,entailment
+5623,But nature germinate it imperfect ever,But nature dismantled it imperfect ever,metaphor,,not_entailment
+5624,She petitioned the witnesses for information,She asked the witnesses for information,metaphor,,entailment
+5625,She petitioned the witnesses for information,She guarded the witnesses for information,metaphor,,not_entailment
+5626,He swept aside my objections,He put aside my objections,metaphor,,entailment
+5627,He swept aside my objections,He removed aside my objections,metaphor,,not_entailment
+5628,She hailed against the wall with all her strength,She pushed against the wall with all her strength,metaphor,,entailment
+5629,She hailed against the wall with all her strength,She pulled against the wall with all her strength,metaphor,,not_entailment
+5630,The moon smiled at the stars in the sky,The moon shined at the stars in the sky,metaphor,,entailment
+5631,The moon smiled at the stars in the sky,The moon darkened at the stars in the sky,metaphor,,not_entailment
+5632,"In addition, the storm trampled the town","In addition, the storm devastated the town",metaphor,,entailment
+5633,"In addition, the storm trampled the town","In addition, the storm protected the town",metaphor,,not_entailment
+5634,Consumed by the thoughts that churned in the head,Consumed by the thoughts that were in the head,metaphor,,entailment
+5635,Consumed by the thoughts that churned in the head,Consumed by the thoughts that weren't in the head,metaphor,,not_entailment
+5636,He peppered fertilizer over the lawn,He spread fertilizer over the lawn,metaphor,,entailment
+5637,He peppered fertilizer over the lawn,He gathered fertilizer over the lawn,metaphor,,not_entailment
+5638,I waded through the work,I struggled through the work,metaphor,,entailment
+5639,I waded through the work,I aced through the work,metaphor,,not_entailment
+5640,People were streaming out of the theater,People were running out of the theater,metaphor,,entailment
+5641,People were streaming out of the theater,People were standing out of the theater,metaphor,,not_entailment
+5642,The dollar has been dried by inflation,The dollar has been reduced by inflation,metaphor,,entailment
+5643,The dollar has been dried by inflation,The dollar has been increased by inflation,metaphor,,not_entailment
+5644,Am I supposed to gobble up that story?,Am I supposed to believe that story?,metaphor,,entailment
+5645,Am I supposed to gobble up that story?,Am I supposed to disbelieve that story?,metaphor,,not_entailment
+5646,The car bleated as the key was roughly turned in its ignition,The car honked as the key was roughly turned in its ignition,metaphor,,entailment
+5647,The car bleated as the key was roughly turned in its ignition,The car failed as the key was roughly turned in its ignition,metaphor,,not_entailment
+5648,The approaching car's headlights looked back at me,The approaching car's headlights reflected at me,metaphor,,entailment
+5649,The approaching car's headlights looked back at me,The approaching car's headlights disregarded at me,metaphor,,not_entailment
+5650,Stock prices are growing higher,Stock prices are rising higher,metaphor,,entailment
+5651,Stock prices are growing higher,Stock prices are falling higher,metaphor,,not_entailment
+5652,Fame clings to the heroes,Fame goes to the heroes,metaphor,,entailment
+5653,Fame clings to the heroes,Fame avoids the heroes,metaphor,,not_entailment
+5654,"It struck from truth alone , the truth we live","It seemed from truth alone , the truth we live",metaphor,,entailment
+5655,"It struck from truth alone , the truth we live","It deceived from truth alone , the truth we live",metaphor,,not_entailment
+5656,Which horse are you wagering on,Which horse are you betting on,metaphor,,entailment
+5657,Which horse are you wagering on,Which horse are you surrendering on,metaphor,,not_entailment
+5658,All fire-flush 'd when forest trees smoldered,All fire-flush 'd when forest trees burned,metaphor,,entailment
+5659,All fire-flush 'd when forest trees smoldered,All fire-flush 'd when forest trees grew,metaphor,,not_entailment
+5660,The politician chopped down his rival,The politician defeated his rival,metaphor,,entailment
+5661,The politician chopped down his rival,The politician lost to his rival,metaphor,,not_entailment
+5662,The attackers launched gunshots at the civilians,The attackers fired gunshots at the civilians,metaphor,,entailment
+5663,The attackers launched gunshots at the civilians,The attackers resisted gunshots at the civilians,metaphor,,not_entailment
+5664,The novel emerges with a murder,The novel begins with a murder,metaphor,,entailment
+5665,The novel emerges with a murder,The novel ends with a murder,metaphor,,not_entailment
+5666,The car hollered as the key was roughly turned in its ignition,The car honked as the key was roughly turned in its ignition,metaphor,,entailment
+5667,The car hollered as the key was roughly turned in its ignition,The car failed as the key was roughly turned in its ignition,metaphor,,not_entailment
+5668,Middle age cut down her appetite for travel,Middle age reduced her appetite for travel,metaphor,,entailment
+5669,Middle age cut down her appetite for travel,Middle age increased her appetite for travel,metaphor,,not_entailment
+5670,The book owned her imagination,The book had her imagination,metaphor,,entailment
+5671,The book owned her imagination,The book failed her imagination,metaphor,,not_entailment
+5672,"Trembling for ire , and stricken pale for rage","Trembling for ire , and look pale for rage",metaphor,,entailment
+5673,"Trembling for ire , and stricken pale for rage","Trembling for ire , and disreagrd pale for rage",metaphor,,not_entailment
+5674,But frozen dread flowed through their entrails dear ;,But frozen dread continued through their entrails dear ;,metaphor,,entailment
+5675,The candle flame twirled in the dark,The candle flame flickered in the dark,metaphor,,entailment
+5676,The candle flame twirled in the dark,The candle flame stagnated in the dark,metaphor,,not_entailment
+5677,The approaching car's headlights glared at me,The approaching car's headlights reflected at me,metaphor,,entailment
+5678,The approaching car's headlights glared at me,The approaching car's headlights disregarded at me,metaphor,,not_entailment
+5679,Dimples nestled in his cheeks,Dimples formed in his cheeks,metaphor,,entailment
+5680,Dimples nestled in his cheeks,Dimples disappeared in his cheeks,metaphor,,not_entailment
+5681,These events could shape the balance of power,These events could affect the balance of power,metaphor,,entailment
+5682,These events could shape the balance of power,These events could upset the balance of power,metaphor,,not_entailment
+5683,Don't remix my words,Don't change my words,metaphor,,entailment
+5684,Don't remix my words,Don't retain my words,metaphor,,not_entailment
+5685,Middle age minimized her appetite for travel,Middle age reduced her appetite for travel,metaphor,,entailment
+5686,Middle age minimized her appetite for travel,Middle age increased her appetite for travel,metaphor,,not_entailment
+5687,Adrenaline surges through him powerfully,Adrenaline flows through him powerfully,metaphor,,entailment
+5688,Adrenaline surges through him powerfully,Adrenaline ebbs through him powerfully,metaphor,,not_entailment
+5689,Life in the camp drained him,Life in the camp tired him,metaphor,,entailment
+5690,Life in the camp drained him,Life in the camp energized him,metaphor,,not_entailment
+5691,The bridge hovers over the river,The bridge stands over the river,metaphor,,entailment
+5692,The bridge hovers over the river,The bridge crashes over the river,metaphor,,not_entailment
+5693,The wind whips through the leaves,The wind blows through the leaves,metaphor,,entailment
+5694,The wind whips through the leaves,The wind relaxes through the leaves,metaphor,,not_entailment
+5695,His playing secured him as a Romantic,His playing established him as a Romantic,metaphor,,entailment
+5696,His playing secured him as a Romantic,His playing denounced him as a Romantic,metaphor,,not_entailment
+5697,A flame ablaze that skipped amid the skies,A flame ablaze that appear amid the skies,metaphor,,entailment
+5698,A flame ablaze that skipped amid the skies,A flame ablaze that disappear amid the skies,metaphor,,not_entailment
+5699,A star christens the Christmas Tree,A star tops the Christmas Tree,metaphor,,entailment
+5700,A star christens the Christmas Tree,A star messes the Christmas Tree,metaphor,,not_entailment
+5701,He was caught in a laughing fit,He was involved in a laughing fit,metaphor,,entailment
+5702,He was caught in a laughing fit,He was uninvolved in a laughing fit,metaphor,,not_entailment
+5703,The taste of agony laid thick upon my tongue,The taste of agony was thick upon my tongue,metaphor,,entailment
+5704,The taste of agony laid thick upon my tongue,The taste of agony wasn't thick upon my tongue,metaphor,,not_entailment
+5705,The candle flame shivered in the dark,The candle flame flickered in the dark,metaphor,,entailment
+5706,The candle flame shivered in the dark,The candle flame stagnated in the dark,metaphor,,not_entailment
+5707,Water seeped out of the can into the backpack,Water leaked out of the can into the backpack,metaphor,,entailment
+5708,Water seeped out of the can into the backpack,Water entered into of the can into the backpack,metaphor,,not_entailment
+5709,"Sniffles, coughs, and colds buoyed in their breasts","Sniffles, coughs, and colds develop in their breasts",metaphor,,entailment
+5710,"Sniffles, coughs, and colds buoyed in their breasts","Sniffles, coughs, and colds reduced in their breasts",metaphor,,not_entailment
+5711,Still waters pool in the wind,Still waters sway in the wind,metaphor,,entailment
+5712,Still waters pool in the wind,Still waters stop in the wind,metaphor,,not_entailment
+5713,She was dolled up yellow that day,She was wearing yellow that day,metaphor,,entailment
+5714,She was dolled up yellow that day,She was doffing yellow that day,metaphor,,not_entailment
+5715,The fruits are crystalized in eternity,The fruits are preserved in eternity,metaphor,,entailment
+5716,The fruits are crystalized in eternity,The fruits are damaged in eternity,metaphor,,not_entailment
+5717,Don't metamorphose my words,Don't change my words,metaphor,,entailment
+5718,Don't metamorphose my words,Don't retain my words,metaphor,,not_entailment
+5719,The train horn disemboweled the peace,The train horn broke the peace,metaphor,,entailment
+5720,The train horn disemboweled the peace,The train horn restored the peace,metaphor,,not_entailment
+5721,My eyes welled up and I could feel my face turning red,My eyes teared up and I could feel my face turning red,metaphor,,entailment
+5722,My eyes welled up and I could feel my face turning red,My eyes dried up and I could feel my face turning red,metaphor,,not_entailment
+5723,Her passion is dancing through the air,Her passion is flowing through the air,metaphor,,entailment
+5724,Her passion is dancing through the air,Her passion is ebbing through the air,metaphor,,not_entailment
+5725,A weather vane crowns the building,A weather vane tops the building,metaphor,,entailment
+5726,A weather vane crowns the building,A weather vane mars the building,metaphor,,not_entailment
+5727,A flame ablaze that sprints amid the skies,A flame ablaze that appear amid the skies,metaphor,,entailment
+5728,A flame ablaze that sprints amid the skies,A flame ablaze that disappear amid the skies,metaphor,,not_entailment
+5729,To scrape the sob of my agony,To guts the sob of my agony,metaphor,,entailment
+5730,To scrape the sob of my agony,To cheer the sob of my agony,metaphor,,not_entailment
+5731,Whom fate has slapped with a weight of woes,Whom fate has met with a weight of woes,metaphor,,entailment
+5732,Whom fate has slapped with a weight of woes,Whom fate has avoided with a weight of woes,metaphor,,not_entailment
+5733,The hidden sun boomerangs with light,The hidden sun returns with light,metaphor,,entailment
+5734,The hidden sun boomerangs with light,The hidden sun departs with light,metaphor,,not_entailment
+5735,Light had banished  darkness,Light had replaced darkness,metaphor,,entailment
+5736,Light had banished  darkness,Light had kept darkness,metaphor,,not_entailment
+5737,Time flies when you're having fun,Time passes when you're having fun,metaphor,,entailment
+5738,Time flies when you're having fun,Time stops when you're having fun,metaphor,,not_entailment
+5739,His voice filled up the house,His voice echoed up the house,metaphor,,entailment
+5740,His voice filled up the house,His voice silenced up the house,metaphor,,not_entailment
+5741,The ex-slave tasted freedom shortly before she died,The ex-slave had freedom shortly before she died,metaphor,,entailment
+5742,The ex-slave tasted freedom shortly before she died,The ex-slave eluded freedom shortly before she died,metaphor,,not_entailment
+5743,My brain is stable after the bottle of champagne,My brain is right after the bottle of champagne,metaphor,,entailment
+5744,My brain is stable after the bottle of champagne,My brain is not after the bottle of champagne,metaphor,,not_entailment
+5745,Her passion is streaming through the air,Her passion is flowing through the air,metaphor,,entailment
+5746,Her passion is streaming through the air,Her passion is ebbing through the air,metaphor,,not_entailment
+5747,His playing erected him as a Romantic,His playing established him as a Romantic,metaphor,,entailment
+5748,His playing erected him as a Romantic,His playing denounced him as a Romantic,metaphor,,not_entailment
+5749,The government flipped the entire law into a code,The government converted the entire law into a code,metaphor,,entailment
+5750,The government flipped the entire law into a code,The government endured the entire law into a code,metaphor,,not_entailment
+5751,The distinction between the two theories disintegrates,The distinction between the two theories disappear,metaphor,,entailment
+5752,The distinction between the two theories disintegrates,The distinction between the two theories appear,metaphor,,not_entailment
+5753,We must embrace the kindness she showed towards us,We must acknowledge the kindness she showed towards us,metaphor,,entailment
+5754,We must embrace the kindness she showed towards us,We must disavow the kindness she showed towards us,metaphor,,not_entailment
+5755,The needle nipped his skin,The needle pricked his skin,metaphor,,entailment
+5756,The needle nipped his skin,The needle avoided his skin,metaphor,,not_entailment
+5757,Their language broadcasts us to believe them,Their language tells us to believe them,metaphor,,entailment
+5758,Their language broadcasts us to believe them,Their language refrains us to believe them,metaphor,,not_entailment
+5759,The needle bit his skin,The needle pricked his skin,metaphor,,entailment
+5760,The needle bit his skin,The needle avoided his skin,metaphor,,not_entailment
+5761,"As they meet the ground, they are wiped","As they reach the ground, they are forgotten",metaphor,,entailment
+5762,"As they meet the ground, they are wiped","As they reach the ground, they are remembered",metaphor,,not_entailment
+5763,The window panes were shaking as the wind blew through them,The window panes were rattling as the wind blew through them,metaphor,,entailment
+5764,The window panes were shaking as the wind blew through them,The window panes were calm as the wind blew through them,metaphor,,not_entailment
+5765,The government photosynthesized the entire law into a code,The government converted the entire law into a code,metaphor,,entailment
+5766,The government photosynthesized the entire law into a code,The government endured the entire law into a code,metaphor,,not_entailment
+5767,I fancy you have not done your homework,I assume you have not done your homework,metaphor,,entailment
+5768,I fancy you have not done your homework,I disbelive you have not done your homework,metaphor,,not_entailment
+5769,The candidate rammed into his opponent mercilessly,The candidate slammed into his opponent mercilessly,metaphor,,entailment
+5770,The candidate rammed into his opponent mercilessly,The candidate protected his opponent mercilessly,metaphor,,not_entailment
+5771,I tried to tide things over between them,I tried to resolve things over between them,metaphor,,entailment
+5772,I tried to tide things over between them,I tried to disturb things over between them,metaphor,,not_entailment
+5773,He lay before the beaming sun,He lay before the growing sun,metaphor,,entailment
+5774,He lay before the beaming sun,He lay before the setting sun,metaphor,,not_entailment
+5775,The bullet pierced her chest,The bullet penetrated her chest,metaphor,,entailment
+5776,The bullet pierced her chest,The bullet retreated her chest,metaphor,,not_entailment
+5777,"It appeared from truth alone , the truth we live","It seemed from truth alone , the truth we live",metaphor,,entailment
+5778,"It appeared from truth alone , the truth we live","It deceived from truth alone , the truth we live",metaphor,,not_entailment
+5779,The candidate torpedoed into his opponent mercilessly,The candidate slammed into his opponent mercilessly,metaphor,,entailment
+5780,The candidate torpedoed into his opponent mercilessly,The candidate protected  his opponent mercilessly,metaphor,,not_entailment
+5781,I tried to patch things over between them,I tried to resolve things over between them,metaphor,,entailment
+5782,I tried to patch things over between them,I tried to disturb things over between them,metaphor,,not_entailment
+5783,The meat was lathered in a fatty gravy,The meat was cooked in a fatty gravy,metaphor,,entailment
+5784,The meat was lathered in a fatty gravy,The meat was uncooked in a fatty gravy,metaphor,,not_entailment
+5785,John fell behind his class mates,John was behind his class mates,metaphor,,entailment
+5786,John fell behind his class mates,John wasn't behind his class mates,metaphor,,not_entailment
+5787,"And truth exalted, and righted wrong","And truth accepted , and righted wrong",metaphor,,entailment
+5788,"And truth exalted, and righted wrong","And truth denied , and righted wrong",metaphor,,not_entailment
+5789,All fire-flush 'd when forest trees crumbled,All fire-flush 'd when forest trees burned,metaphor,,entailment
+5790,All fire-flush 'd when forest trees crumbled,All fire-flush 'd when forest trees grew,metaphor,,not_entailment
+5791,The fruits are fossilized in eternity,The fruits are preserved in eternity,metaphor,,entailment
+5792,The fruits are fossilized in eternity,The fruits are damaged in eternity,metaphor,,not_entailment
+5793,These events could tilt the balance of power,These events could affect the balance of power,metaphor,,entailment
+5794,These events could tilt the balance of power,These events could upset the balance of power,metaphor,,not_entailment
+5795,Their faces were blanketed with sadness,Their faces were covered with sadness,metaphor,,entailment
+5796,Their faces were blanketed with sadness,Their faces were depleted of sadness,metaphor,,not_entailment
+5797,Everything bowed to his glory,Everything down to his glory,metaphor,,entailment
+5798,Everything bowed to his glory,Everything hindered to his glory,metaphor,,not_entailment
+5799,The dancer breezed across the stage,The dancer moved across the stage,metaphor,,entailment
+5800,The dancer breezed across the stage,The dancer paused across the stage,metaphor,,not_entailment
+5801,Earthquake hath pressed deeply its tale on them,Earthquake hath continued deeply its tale on them,metaphor,,entailment
+5802,Earthquake hath pressed deeply its tale on them,Earthquake hath resisted deeply its tale on them,metaphor,,not_entailment
+5803,We funneled money into the education of our children,We put money into the education of our children,metaphor,,entailment
+5804,We funneled money into the education of our children,We refused money into the education of our children,metaphor,,not_entailment
+5805,She pressed against the wall with all her strength,She pushed against the wall with all her strength,metaphor,,entailment
+5806,She pressed against the wall with all her strength,She pulled against the wall with all her strength,metaphor,,not_entailment
+5807,The Senator attacked the administration in his speech on Friday,The Senator criticized the administration in his speech on Friday,metaphor,,entailment
+5808,The Senator attacked the administration in his speech on Friday,The Senator praised the administration in his speech on Friday,metaphor,,not_entailment
+5809,As I walk through the grey mist that twists my sight,As I walk through the grey mist that blocks my sight,metaphor,,entailment
+5810,As I walk through the grey mist that twists my sight,As I walk through the grey mist that enhances my sight,metaphor,,not_entailment
+5811,You are trying my patience,You are wasting my patience,metaphor,,entailment
+5812,You are trying my patience,You are building my patience,metaphor,,not_entailment
+5813,Slowly his sense and strength bloomed,Slowly his sense and strength increased,metaphor,,entailment
+5814,Slowly his sense and strength bloomed,Slowly his sense and strength reduced,metaphor,,not_entailment
+5815,He carried the knowledge or beliefs of his tribe,He held the knowledge or beliefs of his tribe,metaphor,,entailment
+5816,He carried the knowledge or beliefs of his tribe,He released the knowledge or beliefs of his tribe,metaphor,,not_entailment
+5817,She garnishes her lectures with joke,She ends her lectures with joke,metaphor,,entailment
+5818,She garnishes her lectures with joke,She starts her lectures with joke,metaphor,,not_entailment
+5819,The mountain was blanketed with snow,The mountain was covered with snow,metaphor,,entailment
+5820,The mountain was blanketed with snow,The mountain was devoid of snow,metaphor,,not_entailment
+5821,Fame grows to the heroes,Fame goes to the heroes,metaphor,,entailment
+5822,Fame grows to the heroes,Fame avoids the heroes,metaphor,,not_entailment
+5823,I bet you have not done your homework,I assume you have not done your homework,metaphor,,entailment
+5824,I bet you have not done your homework,I disbelieve you have not done your homework,metaphor,,not_entailment
+5825,They had to pigeonhole things out until the Duke arrived,They had to sort things out until the Duke arrived,metaphor,,entailment
+5826,They had to pigeonhole things out until the Duke arrived,They had to mess things out until the Duke arrived,metaphor,,not_entailment
+5827,The critics paid tribute to this broadway production,The critics overpraised this broadway production,metaphor,,entailment
+5828,The critics paid tribute to this broadway production,The critics rebuked this broadway production,metaphor,,not_entailment
+5829,She was sporting yellow that day,She was wearing yellow that day,metaphor,,entailment
+5830,She was sporting yellow that day,She was doffing yellow that day,metaphor,,not_entailment
+5831,And in her old bounds axed her despair,And in her old bounds ended her despair,metaphor,,entailment
+5832,And in her old bounds axed her despair,And in her old bounds started her despair,metaphor,,not_entailment
+5833,The ex-slave found freedom shortly before she died,The ex-slave had freedom shortly before she died,metaphor,,entailment
+5834,The ex-slave found freedom shortly before she died,The ex-slave eluded freedom shortly before she died,metaphor,,not_entailment
+5835,The mountain was quilted with snow,The mountain was covered with snow,metaphor,,entailment
+5836,The mountain was quilted with snow,The mountain was devoid of snow,metaphor,,not_entailment
+5837,The novel sprouts with a murder,The novel begins with a murder,metaphor,,entailment
+5838,The novel sprouts with a murder,The novel ends with a murder,metaphor,,not_entailment
+5839,They sprouted a shudder through my being still,They created a shudder through my being still,metaphor,,entailment
+5840,They sprouted a shudder through my being still,They removed a shudder through my being still,metaphor,,not_entailment
+5841,You are spilling my patience,You are wasting my patience,metaphor,,entailment
+5842,You are spilling my patience,You are building my patience,metaphor,,not_entailment
+5843,This fact clashed against the standard theories,This fact went against the standard theories,metaphor,,entailment
+5844,This fact clashed against the standard theories,This fact favored the standard theories,metaphor,,not_entailment
+5845,A weather vane caps the building,A weather vane tops the building,metaphor,,entailment
+5846,A weather vane caps the building,A weather vane mars the building,metaphor,,not_entailment
+5847,The scream covered the night,The scream filled the night,metaphor,,entailment
+5848,The scream covered the night,The scream emptied the night,metaphor,,not_entailment
+5849,The Senator dissed the administration in his speech on Friday,The Senator criticized the administration in his speech on Friday,metaphor,,entailment
+5850,The Senator dissed the administration in his speech on Friday,The Senator praised the administration in his speech on Friday,metaphor,,not_entailment
+5851,And in her old bounds vanquished her despair,And in her old bounds ended her despair,metaphor,,entailment
+5852,And in her old bounds vanquished her despair,And in her old bounds started her despair,metaphor,,not_entailment
+5853,The train horn fractured the peace,The train horn broke the peace,metaphor,,entailment
+5854,The train horn fractured the peace,The train horn restored the peace,metaphor,,not_entailment
+5855,The stars cha-cha in the night sky,The stars glow in the night sky,metaphor,,entailment
+5856,The stars cha-cha in the night sky,The stars dim in the night sky,metaphor,,not_entailment
+5857,The Serbs decimated the village at night,The Serbs attacked the village at night,metaphor,,entailment
+5858,The Serbs decimated the village at night,The Serbs protected the village at night,metaphor,,not_entailment
+5859,The huge waves attacked the small boat and it sank shortly thereafter,The huge waves hit the small boat and it sank shortly thereafter,metaphor,,entailment
+5860,The huge waves attacked the small boat and it sank shortly thereafter,The huge waves saved the small boat and it sank shortly thereafter,metaphor,,not_entailment
+5861,Consumed by the thoughts that grew in the head,Consumed by the thoughts that were in the head,metaphor,,entailment
+5862,Consumed by the thoughts that grew in the head,Consumed by the thoughts that weren't in the head,metaphor,,not_entailment
+5863,The music swelled to a crescendo,The music builds to a crescendo,metaphor,,entailment
+5864,The music swelled to a crescendo,The music breaks to a crescendo,metaphor,,not_entailment
+5865,The night sky blazed with the massive bombardment,The night sky burned with the massive bombardment,metaphor,,entailment
+5866,The night sky blazed with the massive bombardment,The night sky extinguished with the massive bombardment,metaphor,,not_entailment
+5867,The huge waves smacked the small boat and it sank shortly thereafter,The huge waves hit the small boat and it sank shortly thereafter,metaphor,,entailment
+5868,The huge waves smacked the small boat and it sank shortly thereafter,The huge waves saved the small boat and it sank shortly thereafter,metaphor,,not_entailment
+5869,They terminated off their dinner with a cognac,They finished off their dinner with a cognac,metaphor,,entailment
+5870,They terminated off their dinner with a cognac,They started off their dinner with a cognac,metaphor,,not_entailment
+5871,She sprinkled sunflower seeds,She sowed sunflower seeds,metaphor,,entailment
+5872,She sprinkled sunflower seeds,She destroyed sunflower seeds,metaphor,,not_entailment
+5873,We made a truce on the terms of the settlement,We agreed on the terms of the settlement,metaphor,,entailment
+5874,We made a truce on the terms of the settlement,We disagreed on the terms of the settlement,metaphor,,not_entailment
+5875,The pounding on the door was more assertive now,The knocking on the door was more assertive now,metaphor,,entailment
+5876,The pounding on the door was more assertive now,The protecting on the door was more assertive now,metaphor,,not_entailment
+5877,The spasm twists her facial muscles,The spasm convulses her facial muscles,metaphor,,entailment
+5878,The spasm twists her facial muscles,The spasm straightens her facial muscles,metaphor,,not_entailment
+5879,The music accumulates to a crescendo,The music builds to a crescendo,metaphor,,entailment
+5880,The music accumulates to a crescendo,The music breaks to a crescendo,metaphor,,not_entailment
+5881,The teapot quivered as the water boiled,The teapot shook as the water boiled,metaphor,,entailment
+5882,The teapot quivered as the water boiled,The teapot soothed as the water boiled,metaphor,,not_entailment
+5883,The event dug itself into her memory,The event etched itself into her memory,metaphor,,entailment
+5884,The event dug itself into her memory,The event withdrew itself into her memory,metaphor,,not_entailment
+5885,She relaxed into the luxury of life,She fell into the luxury of life,metaphor,,entailment
+5886,She relaxed into the luxury of life,She rose into the luxury of life,metaphor,,not_entailment
+5887,Oaths of homage fiercely succeeded,Oaths of homage fiercely prevailed,metaphor,,entailment
+5888,Oaths of homage fiercely succeeded,Oaths of homage fiercely left,metaphor,,not_entailment
+5889,He always wore a smile,He always has a smile,metaphor,,entailment
+5890,He always wore a smile,He always hides a smile,metaphor,,not_entailment
+5891,They polished off their dinner with a cognac,They finished off their dinner with a cognac,metaphor,,entailment
+5892,They polished off their dinner with a cognac,They started off their dinner with a cognac,metaphor,,not_entailment
+5893,His voice beamed up the house,His voice echoed up the house,metaphor,,entailment
+5894,His voice beamed up the house,His voice silenced up the house,metaphor,,not_entailment
+5895,He was interwoven in a laughing fit,He was involved in a laughing fit,metaphor,,entailment
+5896,He was interwoven in a laughing fit,He was uninvolved in a laughing fit,metaphor,,not_entailment
+5897,The little raindrops diving together stick upon my coat,The little raindrops falling together stick upon my coat,metaphor,,entailment
+5898,The little raindrops diving together stick upon my coat,The little raindrops stopping together stick upon my coat,metaphor,,not_entailment
+5899,The Serbs charged the village at night,The Serbs attacked the village at night,metaphor,,entailment
+5900,The Serbs charged the village at night,The Serbs protected the village at night,metaphor,,not_entailment
+5901,She spews a lot of nonsense,She speaks a lot of nonsense,metaphor,,entailment
+5902,She spews a lot of nonsense,She avoids a lot of nonsense,metaphor,,not_entailment
+5903,His playing birthed him as a Romantic,His playing established him as a Romantic,metaphor,,entailment
+5904,His playing birthed him as a Romantic,His playing denounced him as a Romantic,metaphor,,not_entailment
+5905,The party died as soon as she left,The party ended as soon as she left,metaphor,,entailment
+5906,The party died as soon as she left,The party started as soon as she left,metaphor,,not_entailment
+5907,He was slapped with a terrible illness that killed him quickly,He was stricken with a terrible illness that killed him quickly,metaphor,,entailment
+5908,He was slapped with a terrible illness that killed him quickly,He was unaffected with a terrible illness that killed him quickly,metaphor,,not_entailment
+5909,The politician toppled his rival,The politician defeated his rival,metaphor,,entailment
+5910,The politician toppled his rival,The politician lost to his rival,metaphor,,not_entailment
+5911,Her optimism flicked away these worries,Her optimism took away these worries,metaphor,,entailment
+5912,Her optimism flicked away these worries,Her optimism gave away these worries,metaphor,,not_entailment
+5913,Their language sways us to believe them,Their language tells us to believe them,metaphor,,entailment
+5914,Their language sways us to believe them,Their language refrains us to believe them,metaphor,,not_entailment
+5915,The wildfire ravaged through the forest at an amazing speed,The wildfire spread through the forest at an amazing speed,metaphor,,entailment
+5916,The wildfire ravaged through the forest at an amazing speed,The wildfire halted through the forest at an amazing speed,metaphor,,not_entailment
+5917,The avalanche torpedoed anything standing in its way,The avalanche destroyed anything standing in its way,metaphor,,entailment
+5918,The avalanche torpedoed anything standing in its way,The avalanche protected anything standing in its way,metaphor,,not_entailment
+5919,The cigarettes rained on his health,The cigarettes affected his health,metaphor,,entailment
+5920,The cigarettes rained on his health,The cigarettes cured his health,metaphor,,not_entailment
+5921,The sudden fame burst forth her ego,The sudden fame increased her ego,metaphor,,entailment
+5922,The sudden fame burst forth her ego,The sudden fame decreased her ego,metaphor,,not_entailment
+5923,The taste of agony coated thick upon my tongue,The taste of agony was thick upon my tongue,metaphor,,entailment
+5924,The taste of agony coated thick upon my tongue,The taste of agony wasn't thick upon my tongue,metaphor,,not_entailment
+5925,Death is flowing at the door,Death is coming at the door,metaphor,,entailment
+5926,Death is flowing at the door,Death is leaving at the door,metaphor,,not_entailment
+5927,The hidden sun unfurls with light,The hidden sun returns with light,metaphor,,entailment
+5928,The hidden sun unfurls with light,The hidden sun departs with light,metaphor,,not_entailment
+5929,The bullet snuck into her chest,The bullet penetrated her chest,metaphor,,entailment
+5930,The bullet snuck into her chest,The bullet left her chest,metaphor,,not_entailment
+5931,They had to ration things out until the Duke arrived,They had to sort things out until the Duke arrived,metaphor,,entailment
+5932,They had to ration things out until the Duke arrived,They had to mess things out until the Duke arrived,metaphor,,not_entailment
+5933,I won't stoop to reading other people's mail,I won't go to reading other people's mail,metaphor,,entailment
+5934,I won't stoop to reading other people's mail,I won't stop to reading other people's mail,metaphor,,not_entailment
+5935,The stars sparkle in the night sky,The stars glow in the night sky,metaphor,,entailment
+5936,The stars sparkle in the night sky,The stars dim in the night sky,metaphor,,not_entailment
+5937,The distinction between the two theories wilted,The distinction between the two theories disappear,metaphor,,entailment
+5938,The distinction between the two theories wilted,The distinction between the two theories appear,metaphor,,not_entailment
+5939,The cold petrifies her bones,The cold chill her bones,metaphor,,entailment
+5940,The cold petrifies her bones,The cold warms her bones,metaphor,,not_entailment
+5941,Water flooded out of the can into the backpack,Water leaked out of the can into the backpack,metaphor,,entailment
+5942,Water flooded out of the can into the backpack,Water entered into the can from the backpack,metaphor,,not_entailment
+5943,My personal feelings sway my judgment in this case,My personal feelings influenced my judgment in this case,metaphor,,entailment
+5944,My personal feelings sway my judgment in this case,My personal feelings nullified my judgment in this case,metaphor,,not_entailment
+5945,The night sky flurried with the massive bombardment,The night sky burned with the massive bombardment,metaphor,,entailment
+5946,The night sky flurried with the massive bombardment,The night sky doused with the massive bombardment,metaphor,,not_entailment
+5947,Of that faint fragrance spiraling from her soft hair,Of that faint fragrance being from her soft hair,metaphor,,entailment
+5948,Of that faint fragrance spiraling from her soft hair,Of that faint fragrance stagnating in her soft hair,metaphor,,not_entailment
+5949,Earthquake hath swam deeply its tale on them,Earthquake hath continued deeply its tale on them,metaphor,,entailment
+5950,Earthquake hath swam deeply its tale on them,Earthquake hath resisted deeply its tale on them,metaphor,,not_entailment
+5951,"And truth stomached , and righted wrong","And truth accepted , and righted wrong",metaphor,,entailment
+5952,"And truth stomached , and righted wrong","And truth denied , and righted wrong",metaphor,,not_entailment
+5953,They sent a shudder through my being still,They created a shudder through my being still,metaphor,,entailment
+5954,They sent a shudder through my being still,They reduced a shudder through my being still,metaphor,,not_entailment
+5955,They scoured through the job candidates,They went through the job candidates,metaphor,,entailment
+5956,They scoured through the job candidates,They skipped through the job candidates,metaphor,,not_entailment
+5957,The meat was transfigured in a fatty gravy,The meat was cooked in a fatty gravy,metaphor,,entailment
+5958,The meat was transfigured in a fatty gravy,The meat was uncooked in a fatty gravy,metaphor,,not_entailment
+5959,Stock prices are rocketing higher,Stock prices are rising higher,metaphor,,entailment
+5960,Stock prices are rocketing higher,Stock prices are falling higher,metaphor,,not_entailment
+5961,I battled with this decision for years,I struggled with this decision for years,metaphor,,entailment
+5962,I battled with this decision for years,I breezed with this decision for years,metaphor,,not_entailment
+5963,His body was twisted by leprosy,His body was deformed by leprosy,metaphor,,entailment
+5964,His body was twisted by leprosy,His body was improved by leprosy,metaphor,,not_entailment
+5965,She had to tend to her job and her children,She had to manage her job and her children,metaphor,,entailment
+5966,She had to tend to her job and her children,She had to derange her job and her children,metaphor,,not_entailment
+5967,She did not realize that opportunity was waiting at her door,She did not realize that opportunity was coming at her door,metaphor,,entailment
+5968,She did not realize that opportunity was waiting at her door,She did not realize that opportunity was leaving at her door,metaphor,,not_entailment
+5969,As I walk through the grey mist that tempers my sight,As I walk through the grey mist that blocks my sight,metaphor,,entailment
+5970,As I walk through the grey mist that tempers my sight,As I walk through the grey mist that enhances my sight,metaphor,,not_entailment
+5971,Still waters groove in the wind,Still waters sway in the wind,metaphor,,entailment
+5972,Still waters groove in the wind,Still waters stop in the wind,metaphor,,not_entailment
